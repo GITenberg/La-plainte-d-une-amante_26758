@@ -43,5 +43,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Shakespeare, William, 1564-1616 -- Translations into French'
 - !lcc 'PR'
+- GITenberg
 title: La plainte d'une amante
 url: http://www.gutenberg.org/ebooks/26758
